@@ -1,0 +1,7 @@
+.stateName {
+    cursor: pointer;
+    color: cornflowerblue!important;
+}
+.stateName:hover {
+    color: blue!important;
+}
